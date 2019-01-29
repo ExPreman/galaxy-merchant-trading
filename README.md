@@ -10,13 +10,13 @@ you have painstakingly collected the appropriate translation between them. Roman
 based on seven symbols:
 
 Symbol Value
-* I 1
-* V 5
-* X 10
-* L 50
-* C 100
-* D 500
-* M 1,000
+* I = 1
+* V = 5
+* X = 10
+* L = 50
+* C = 100
+* D = 500
+* M = 1,000
 
 Numbers are formed by combining symbols together and adding the values. For example, MMVI is
 1000 + 1000 + 5 + 1 = 2006. Generally, symbols are placed in order of value, starting with the
