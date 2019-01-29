@@ -10,6 +10,7 @@ you have painstakingly collected the appropriate translation between them. Roman
 based on seven symbols:
 
 Symbol Value
+
 I 1
 V 5
 X 10
